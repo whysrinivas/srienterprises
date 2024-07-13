@@ -495,3 +495,8 @@
 .logo {
     width: 80px;
 }
+
+.service-item img.img-fluid{
+    height: 170px !important;
+    width: 220px !important;
+}
